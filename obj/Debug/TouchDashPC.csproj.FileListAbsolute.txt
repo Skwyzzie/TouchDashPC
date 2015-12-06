@@ -1,0 +1,11 @@
+c:\users\kerry\documents\visual studio 2013\Projects\TouchDashPC\TouchDashPC\bin\Debug\TouchDashPC.exe.config
+c:\users\kerry\documents\visual studio 2013\Projects\TouchDashPC\TouchDashPC\bin\Debug\TouchDashPC.exe
+c:\users\kerry\documents\visual studio 2013\Projects\TouchDashPC\TouchDashPC\bin\Debug\TouchDashPC.pdb
+c:\users\kerry\documents\visual studio 2013\Projects\TouchDashPC\TouchDashPC\obj\Debug\TouchDashPC.csprojResolveAssemblyReference.cache
+c:\users\kerry\documents\visual studio 2013\Projects\TouchDashPC\TouchDashPC\obj\Debug\TouchDashPC.Form1.resources
+c:\users\kerry\documents\visual studio 2013\Projects\TouchDashPC\TouchDashPC\obj\Debug\TouchDashPC.Properties.Resources.resources
+c:\users\kerry\documents\visual studio 2013\Projects\TouchDashPC\TouchDashPC\obj\Debug\TouchDashPC.csproj.GenerateResource.Cache
+c:\users\kerry\documents\visual studio 2013\Projects\TouchDashPC\TouchDashPC\obj\Debug\TouchDashPC.exe
+c:\users\kerry\documents\visual studio 2013\Projects\TouchDashPC\TouchDashPC\obj\Debug\TouchDashPC.pdb
+C:\Users\Kerry\Documents\Visual Studio 2013\Projects\TouchDashPC\TouchDashPC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kerry\Documents\Visual Studio 2013\Projects\TouchDashPC\TouchDashPC\bin\Debug\Newtonsoft.Json.xml
